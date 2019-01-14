@@ -57,7 +57,7 @@ Create and run buildout
 
 You can setup a virtualenv and run the buildout with::
 
-    make buildout
+    make bin/buildout
 
 or instead manually::
 
